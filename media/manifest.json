@@ -1,0 +1,134 @@
+{
+  "source_document": "group13_finallab-4(1).pdf",
+  "source_sha256": "a895f1f11d0c446456ab5457a03c8a1e81e7dc3463e8b0cdd17cd28d9956e6c2",
+  "images": [
+    {
+      "path": "light-seeking/ldr-component.png",
+      "figure": 1,
+      "body_page": 5,
+      "pdf_page": 6,
+      "description": "LDR 器件示意",
+      "sha256": "524eee5fe5d23bb6eda7f1f834ac4e331d04c3815d7c40280d5469b196ccc21b"
+    },
+    {
+      "path": "light-seeking/ldr-sensor-board.jpg",
+      "figure": 2,
+      "body_page": 5,
+      "pdf_page": 6,
+      "description": "单路光敏采样焊接实物",
+      "sha256": "24a72ceaac0fe99cebb827df15e16ec2217aa639706ae78cfb3de8cfa576e80f"
+    },
+    {
+      "path": "light-seeking/ldr-response-curve.png",
+      "figure": 3,
+      "body_page": 6,
+      "pdf_page": 7,
+      "description": "报告中的光敏响应示意曲线",
+      "sha256": "ada58e71ceeb26f52d3bdbc5808a9e0da9d5d56570249c718731ca4b0fc121f4"
+    },
+    {
+      "path": "light-seeking/car-front.jpg",
+      "figure": 15,
+      "body_page": 19,
+      "pdf_page": 20,
+      "description": "小车正面实物",
+      "sha256": "6d9fe3d4059f95d572bad5ebb20ec608b4e7f687727b218ebcde971c27497d59"
+    },
+    {
+      "path": "light-seeking/car-side.jpg",
+      "figure": 16,
+      "body_page": 20,
+      "pdf_page": 21,
+      "description": "小车侧面实物",
+      "sha256": "9eea4cd47f41b92604b8ecd1b0f7878b2f0919b56b4929981bbcfb87b3732ed5"
+    },
+    {
+      "path": "light-seeking/car-internals.jpg",
+      "figure": 17,
+      "body_page": 21,
+      "pdf_page": 22,
+      "description": "小车内部布局",
+      "sha256": "6b81383c469690fac6fac81f554e3f11648250c9b25cd5cf1a03b4b4cff3152f"
+    },
+    {
+      "path": "line-following/ads1115-installed.jpg",
+      "figure": 5,
+      "body_page": 9,
+      "pdf_page": 10,
+      "description": "ADS1115 实物安装",
+      "sha256": "2d674174bb5444f4987bb3ce50aca0be13b4854085a50c751f1ea25727ffe020"
+    },
+    {
+      "path": "line-following/ir-sensors-installed.jpg",
+      "figure": 6,
+      "body_page": 10,
+      "pdf_page": 11,
+      "description": "三路红外传感器安装",
+      "sha256": "2017a3cccfe476b8ed94719a54b510bb6e75ec03ac09c921c4809118d8e81e22"
+    },
+    {
+      "path": "line-following/ir-response-curve.png",
+      "figure": 7,
+      "body_page": 10,
+      "pdf_page": 11,
+      "description": "黑白与高度响应示意",
+      "sha256": "7e5f950b3444f5d513a64064afb8687b68919eff3d6040739c2cb601d39f4a68"
+    },
+    {
+      "path": "obstacle-avoidance/sonar-servo-installed.jpg",
+      "figure": 8,
+      "body_page": 13,
+      "pdf_page": 14,
+      "description": "超声波与舵机安装",
+      "sha256": "3f6c5474c6934e037b43e4418dc7618d7a62396893292507da2fe5ac462fb31c"
+    },
+    {
+      "path": "obstacle-avoidance/sonar-angle-response.jpg",
+      "figure": 9,
+      "body_page": 14,
+      "pdf_page": 15,
+      "description": "原报告角度响应图，径向单位待核实",
+      "sha256": "d6d8c995198e6ff705a73efb1d5aa01c9fa79ebed205635f58eae938a26fb621"
+    },
+    {
+      "path": "environment/bme280-installed.jpg",
+      "figure": 10,
+      "body_page": 16,
+      "pdf_page": 17,
+      "description": "环境传感器安装，丝印 BME/BMP280",
+      "sha256": "11602018b1f02759c1fefa29d97493c670f394c2f4d4bd5c6184e537b2e22d0b"
+    },
+    {
+      "path": "inertial/mpu6050-installed.png",
+      "figure": 11,
+      "body_page": 17,
+      "pdf_page": 18,
+      "description": "MPU6050 器件示意，非安装照片",
+      "sha256": "f10a0c8ef4fdcff5957e3776059a7d801e5959165199845f0e0317da102b84d3"
+    },
+    {
+      "path": "inertial/z-axis-response.png",
+      "figure": 12,
+      "body_page": 17,
+      "pdf_page": 18,
+      "description": "Z 轴及显示偏移示意，非模长",
+      "sha256": "9ee2e78d14925c008e8aba008545b5fb272156f1014363e3537824c71f164bf5"
+    },
+    {
+      "path": "environment/i2c-topology.png",
+      "figure": 13,
+      "body_page": 18,
+      "pdf_page": 19,
+      "description": "通用 I2C 拓扑，非本程序专用接线图",
+      "sha256": "fb4c5f6888cc184a9ac70447bc163f6240aa8c1f6e0a2cb055b1509595bd7dcb"
+    },
+    {
+      "path": "inertial/motion-test.jpg",
+      "figure": 14,
+      "body_page": 18,
+      "pdf_page": 19,
+      "description": "课程小车运动测试照片",
+      "sha256": "192ebfa17158993c451c5b7d7375e7e7ef8eadeecc5346f306d50a7e47c06318"
+    }
+  ]
+}
