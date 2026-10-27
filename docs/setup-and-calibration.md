@@ -36,7 +36,7 @@ arduino-cli compile --fqbn arduino:avr:uno --build-path .arduino-build firmware/
 arduino-cli upload --fqbn arduino:avr:uno --port <实际串口> --input-dir .arduino-build
 ```
 
-`<实际串口>` 替换为设备实际端口。本次整理环境未安装 Arduino CLI，以上命令未执行。
+`<实际串口>` 替换为设备实际端口。当前版本已通过 UNO 目标编译，未执行上传；批量验证方式见[构建说明](hardware-and-build.md)。
 
 ## 第一步 确认传感器方向
 

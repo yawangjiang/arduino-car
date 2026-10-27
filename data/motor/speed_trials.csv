@@ -1,0 +1,9 @@
+wiring,speed_level,trial_1_s,trial_2_s,trial_3_s,reported_mean_s,reported_speed_m_s,confirmed_distance_m
+4-wire,slowest,32.02,33.44,31.24,32.23,0.140,
+4-wire,slower,22.82,23.30,22.56,22.89,0.197,
+4-wire,faster,13.02,12.78,12.72,12.84,0.350,
+4-wire,fastest,6.16,6.38,6.26,6.27,0.718,
+6-wire,slowest,20.98,23.08,22.90,22.32,0.201,
+6-wire,slower,10.46,11.92,11.66,11.35,0.396,
+6-wire,faster,6.54,6.32,6.82,6.56,0.686,
+6-wire,fastest,5.76,5.94,5.86,5.85,0.769,
