@@ -2,8 +2,6 @@
 
 基于 Arduino UNO 的 Bus 造型双轮差速小车，记录从传感器采样、电机测试到寻光、循迹、避障和环境观测的课程设计过程。
 
-**Yuanxi HAN** · Arduino UNO R3 · L298N · LDR / TCRT5000 / HC-SR04 / MPU6050 / BME280
-
 ![Bus 造型小车实物](media/light-seeking/car-side.jpg)
 
 ## 按功能浏览
